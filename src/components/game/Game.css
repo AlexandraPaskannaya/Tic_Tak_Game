@@ -1,0 +1,7 @@
+button.active-step {
+    background-color: rgb(245, 207, 150);
+}
+
+.marked{
+    border: 1px solid red;
+  }
